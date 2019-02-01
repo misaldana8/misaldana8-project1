@@ -1,0 +1,54 @@
+h1 {
+    color: red;
+}
+
+header {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Merriweather', serif;
+  }
+  
+  #toe_container {
+      background: #f9f9f9 none repeat scroll 0 0;
+      border: 1px solid #aaa;
+      display: table;
+      font-size: 95%;
+      margin-bottom: 1em;
+      padding: 20px;
+      width: auto;
+  }
+  
+  .toe_title {
+      font-weight: 700;
+      text-align: center;
+      font-family: 'Merriweather', serif;
+  }
+  
+  #toe_container li, #toe_container ul, #toe_container ul li{
+      list-style: outside none;
+  }
+  
+  h1 {
+    font-family: 'Titillium Web', sans-serif;
+    text-weight: regular;
+    font-size: 26px;
+    padding-top: 30px;
+  }
+  
+  body {
+    background-color: lightblue;
+  }
+  
+  p {
+    font-size: 18px;
+    font-family: 'Merriweather', serif;
+    padding-right: 300px;
+  }
+  
+  ul {
+    font-size: 14px;
+    padding-right: 300px;
+    line-height: 190%;
+    font-family: 'Merriweather', serif;
+  }
